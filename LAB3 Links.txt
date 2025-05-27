@@ -1,0 +1,5 @@
+3n+1 problem:
+https://colab.research.google.com/drive/1m_p_zh81yvox6AZD-1DuKXDr0tRoqOyL?usp=sharing
+
+Power sum:
+https://colab.research.google.com/drive/1dyNJbo9N2V3MdFp69kIxT5yQ2aNwaJu0?usp=sharing
